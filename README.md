@@ -15,7 +15,7 @@
   <a href="https://www.instagram.com/munhoz.dev">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
-  <a href="https://www.youtube.com/@armandomunhoz299">
+  <a href="https://www.youtube.com/@Dev_pensante">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
   </a>
 </p>
@@ -26,7 +26,7 @@
 
 Estou direcionando minha carreira para a área de **Dados**, unindo raciocínio analítico com uma base técnica em desenvolvimento back-end (Java, APIs, bancos relacionais). Isso me dá algo que muitos analistas júnior não têm: entendimento de ponta a ponta — de onde o dado nasce até como ele vira decisão.
 
-Hoje aprofundo estudos em **Python, SQL, Power BI e análise exploratória de dados**, e documento parte do processo no canal [Dev_pensante](https://www.youtube.com/@armandomunhoz299) e no [Instagram](https://www.instagram.com/munhoz.dev).
+Hoje aprofundo estudos em **Python, SQL, Power BI e análise exploratória de dados**, e documento parte do processo no canal [Dev_pensante](https://www.youtube.com/@Dev_pensante) e no [Instagram](https://www.instagram.com/munhoz.dev).
 
 Busco oportunidade de **estágio em Dados / BI / Analytics**, onde eu possa aprender rápido, gerar resultado e evoluir tecnicamente.
 
